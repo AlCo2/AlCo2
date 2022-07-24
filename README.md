@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlCo2
+- 👋 Hi, I’m Co2
 - 👀 I’m interested in web-development
 - 🌱 Python, JavaScript, Html, CSS
 - heyyy all
