@@ -1,6 +1,6 @@
 std::Cout << "Welcome To my World" << std::endl;
 
-Hey,I'm A 20 years old young boy from morocco and I am a software and Web Developer,
+Hey, I'm A 20 years old young boy from morocco and I am a software and Web Developer,
 
 A: Abdou(Abdellah);
 l: Lahboub;
