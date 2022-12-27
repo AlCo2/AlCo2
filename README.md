@@ -3,11 +3,16 @@ std::Cout << "Welcome To my World" << std::endl;
 Hey, I'm A 20 years old young boy from morocco and I am a software and Web Developer,
 
 A: Abdou(Abdellah);
+
 l: Lahboub;
+
 Co2: Carbon dioxide;
+
 AlCo2;
 
-my Skills: C, C++, Python, HTML, CSS, JavaScript.
+My Skills:
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,django,js,html,css,bootstrap,react,vscode)](https://skillicons.dev)
 
 i have a lot of passion and power to learn New Things and New Technologie Every Day, so Stay Cool.
 
