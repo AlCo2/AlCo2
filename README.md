@@ -1,7 +1,14 @@
-- 👋 Hi, I’m Co2
-- 👀 I’m interested in software engineering.
-- 🌱 Python, JavaScript, Html, CSS, django, C++
+std::Cout << "Welcome To my World" << std::endl;
 
--i am 20 years old boy thats enjoy and love coding
+Hey,I'm A 20 years old young boy from morocco and I am a software and Web Developer,
 
-AlCo2/AlCo2 is a ✨ special ✨
+A: Abdou(Abdellah);
+l: Lahboub;
+Co2: Carbon dioxide;
+AlCo2;
+
+my Skills: C, C++, Python, HTML, CSS, JavaScript.
+
+i have a lot of passion and power to learn New Things and New Technologie Every Day, so Stay Cool.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AlCo2)](https://github.com/AlCo2/github-profile-trophy)
