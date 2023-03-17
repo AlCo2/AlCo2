@@ -12,7 +12,7 @@ AlCo2;
 
 My Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,django,js,html,css,bootstrap,react,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,django,js,html,css,bootstrap,react,java,vscode)](https://skillicons.dev)
 
 i have a lot of passion and power to learn New Things and New Technologie Every Day, so Stay Cool.
 
