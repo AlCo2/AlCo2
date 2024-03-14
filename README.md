@@ -1,6 +1,6 @@
-I am Abdou and I am a software and web Developer.
+I am a software and web Developer.
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,django,js,html,css,bootstrap,react,java,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,django,js,html,css,bootstrap,react,java,vscode,spring,vim,linux)](https://skillicons.dev)
 
 I have a lot of passion to learn new Things and new Technologies Every Day.
 
