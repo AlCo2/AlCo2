@@ -1,4 +1,4 @@
-I am a software and web Developer.
+I am a Full-Stack Developer
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,django,js,html,css,bootstrap,react,java,vscode,spring,vim,linux)](https://skillicons.dev)
 
