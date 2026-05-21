@@ -5,4 +5,4 @@ Beyond my primary stack, I leverage Python and JavaScript for scripting and auto
 
 I enjoy solving complex problems, writing efficient code, and working in dynamic environments where I can learn and contribute to impactful projects.
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,py,js,ts,react,laravel,vim,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,go,py,js,ts,react,rabbitmq,aws,gcp,azure,vim,git,docker,bash,linux)](https://skillicons.dev)
